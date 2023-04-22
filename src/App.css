@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btnadd{
+  margin: auto;
+}
+
+
+.navbar{
+  
+  background-color: cornflowerblue;
+}
+
+.navbar ul{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+.navbar li{
+  list-style: none;
+  margin: 10px 20px;
+}
+
+
+
+.btn button{
+  width: 100%;
+
+}
